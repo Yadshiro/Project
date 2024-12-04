@@ -1,1 +1,2 @@
 "El VWAP, o Precio Promedio Ponderado por Volumen, sirve como punto de referencia comercial que proporciona el precio promedio al que se ha negociado un valor a lo largo del día, en función del volumen y el precio. Las bandas VWAP, una extensión de este concepto, introducen bandas por encima y por debajo del VWAP para identificar posibles niveles de soporte y resistencia."
+"Cambio de la nueva rama"
